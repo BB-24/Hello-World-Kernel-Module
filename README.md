@@ -116,7 +116,7 @@ This module is licensed under the GNU General Public License (GPL).
 
 ## Author
 
-Your Name
+Bhavya Bansal
 
 ## References
 
