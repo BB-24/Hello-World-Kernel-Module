@@ -27,6 +27,22 @@ bash
 sudo yum install gcc make kernel-devel-$(uname -r)
 ```
 
+## Cloning the Repository
+
+To clone this repository to your local machine, run the following command in your terminal:
+
+```
+bash
+git clone https://github.com/BB-24/Hello-World-Kernel-Module.git
+```
+
+After cloning, navigate to the project directory:
+
+```
+bash
+cd Hello-World-Kernel-Module
+```
+
 ## Building the Module
 
 1. Clone or navigate to the project directory
